@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Isn't it obvious?"
-date:   2017-04-17 18:55:18 +0000
+date:   2017-04-17 14:55:19 -0400
 ---
 
 
@@ -17,7 +17,8 @@ Returning to the workforce in a new field or a previous one will take work. I’
 
 - How am I supposed to cultivate a curiosity about STEM in my daughters if I’m not “the math and science type” myself? 
 - What can I learn that will help me become a relevant candidate in today’s job market? 
-- Is there a field that will give me the flexibility to be present for my kids while still giving me professional satisfaction?  
+- Is there a field that will give me the flexibility to be present for my kids while still giving me professional satisfaction? 
+
 When I put all the pieces together, web development seemed like the obvious choice. 
 
 So far, it’s been a really exciting journey. The material challenges me to think in new ways and really dig for the answers. But I have the determination to keep pushing, and every time I make a breakthrough I experience a kind of fulfillment I have never felt as a professional. 
